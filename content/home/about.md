@@ -34,7 +34,7 @@ weight = 5
 
 # Biography
 
-I am the lead data scientist at CARFAX, Inc. In this role, I build and administer modern analytics environments both on-prem and in the cloud, utilize big data technologies such as Hadoop and Spark, and ensure that all data science work is programmattic and reproducible. I am committed to modern workflows, automation, training others, version control, sharing knowledge broadly, creating packages that make others more efficient and productive, and ensuring that our data science culture is prosocial and welcoming.     
+I am the lead data scientist at CARFAX, Inc. In this role, I build and administer modern analytics environments both on-prem and in the cloud, utilize Big Data technologies such as Hadoop and Spark, and ensure that all data science work is programmatic and reproducible. I am committed to modern data workflows, automation, training others, version control, sharing knowledge broadly, creating packages that make others more efficient and productive, and ensuring that our data science culture is prosocial and welcoming.     
 
 I have a Ph.D. in Social/Personality Psychology from the University of Missouri, with a concentration in psychological statistics and research methodology. My [open science research] (https://osf.io/84xut/) on violent video games has been published in one of the [top experimental psychology journals](http://pcl.missouri.edu/sites/default/files/Engelhardt.etal_.PsycSci.2015.pdf). 
 

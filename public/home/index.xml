@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Chris Engelhardt</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Chris Engelhardt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Chris Engelhardt 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am the lead data scientist at CARFAX, Inc. In this role, I build and administer modern analytics environments both on-prem and in the cloud, utilize big data technologies such as Hadoop and Spark, and ensure that all data science work is programmattic and reproducible. I am committed to modern workflows, automation, training others, version control, sharing knowledge broadly, creating packages that make others more efficient and productive, and ensuring that our data science culture is prosocial and welcoming.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

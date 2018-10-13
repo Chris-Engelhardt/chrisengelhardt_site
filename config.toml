@@ -1,4 +1,4 @@
-baseurl = "chris-engelhardt.netlify.com/"
+baseurl = "https://chris-engelhardt.netlify.com//"
 title = "Chris Engelhardt"
 copyright = "&copy; Chris Engelhardt 2018"
 theme = "hugo-academic"
